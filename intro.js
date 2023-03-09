@@ -6,8 +6,8 @@ let currPage;
 
 const loginLink = "https://www.hackerrank.com/auth/login";
 
-const email = "devendrarana@zapbuild.com";
-const password = "devendra@123";
+const email = "devendrarana@zap.com";
+const password = "dev";
 
 const answers= [
     `int simpleArraySum(vector<int> ar)
